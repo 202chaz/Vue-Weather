@@ -31,7 +31,7 @@ export default {
   }
   input[type=text] {
     border-radius: 3px;
-    width:10%;
+    width:12%;
     height:60px;
     border:none;
     margin-bottom:80px;
